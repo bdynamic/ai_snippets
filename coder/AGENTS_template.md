@@ -23,4 +23,4 @@ This file provides guidance for AI Assistants
 - Never commit file which contain personal data or crypt. artifacts. Put them to gitignore, create samples and commit
 
 ## Links (`devdoc/`)
-- to be filled
+- to be filled by Coding assistant
