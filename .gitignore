@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#old file
+*~
+*.bak
+
+
 # C extensions
 *.so
 
