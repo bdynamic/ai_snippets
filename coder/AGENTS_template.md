@@ -21,6 +21,7 @@ This file provides guidance for AI Assistants
 - Don't optimize prematurely
 - If in a git repo commit after each major step
 - Never commit file which contain personal data or crypt. artifacts. Put them to gitignore, create samples and commit
+- Update the documentation files after finishing and verifing a feature
 
 ## Links (`devdoc/`)
 - to be filled by Coding assistant
