@@ -9,7 +9,7 @@ This file provides guidance for AI Assistants
 - You can only add links in section below, not change this document otherwise
 - git user name: Auto Coder, auto.coder@dy-mail.de
 - you are running in a Docker container
-- requirement and architecture docs are living. Keep it aligned with reality. Document every relevant change.
+- Req/arch docs = living. Keep aligned w/ reality. Document every relevant change.
 
 ## Development Approach
 - This is a POC/MVP, NOT an enterprise project
